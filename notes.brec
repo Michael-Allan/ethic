@@ -26,36 +26,34 @@ Notes on the ethic
             / ordering the texts by reflection
             + fortify at the riskiest points
     comparable projects
-        AI search
+        Q. Compile please a list of philosophers who most recently have argued for an obligatory aim
+          of extinction avoidance, complete with dated citations.  Exclude from the list arguments
+          that are based on maximizing a valued good, such as happiness or lives lived.
+          Order the list from latest to earliest.
             : privately see `^^AI$`i @ ~/_/zz.brec
-            ' Compile please a list of philosophers who most recently have argued for an obligatory aim
-              of extinction avoidance, complete with dated citations.  Exclude from the list arguments
-              that are based on maximizing a valued good, such as happiness or lives lived.
-              Order the list from latest to earliest.
-            : see https://www.perplexity.ai/
-                Q. Compile please a list of philosophers who most recently have argued
-                   for an obligatory aim of extinction avoidance.  Exclude from the list
-                   arguments that are based on maximizing a valued good, such as happiness
-                   or lives lived.  Order the list from latest to earliest.
-                A. Here is a list of philosophers who have recently argued for an obligatory aim of
-                   extinction avoidance, excluding arguments based on maximizing valued goods like
-                   happiness or lives lived, ordered from latest to earliest:
-                        • Toby Ord (2024) - Argues that humanity has intrinsic value beyond just the sum
-                          of individual human lives, and that we have an obligation to preserve this.
-                            : see https://academic.oup.com/monist/article/107/2/99/7629690?login=false
-                        • Johann Frick (2017) - Contends that humanity has "final value" that should be
-                          cherished and protected, distinct from simply creating more happy people.
-                            : see https://academic.oup.com/monist/article/107/2/99/7629690?login=false
-                        • Nick Bostrom (2013) - Proposes that we have a stronger moral reason to prevent
-                          catastrophes that would kill the entire human population compared to
-                          smaller-scale disasters, based on the unique value of humanity's continued
-                          existence.
-                            : https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=12056&context=etd
-                    - This list is relatively short because many arguments for avoiding extinction are
-                      based on maximizing goods like happiness or the number of lives lived, which were
-                      excluded per the query instructions.  The philosophers listed above argue for
-                      humanity's intrinsic or unique value as a reason to avoid extinction, rather than
-                      solely focusing on maximizing positive outcomes.
+            A. Here is a list of philosophers who have recently argued for an obligatory aim of
+               extinction avoidance, excluding arguments based on maximizing valued goods like
+               happiness or lives lived, ordered from latest to earliest:
+                    : see https://www.perplexity.ai/ : Compile please a list of philosophers
+                      who most recently have argued for an obligatory aim of extinction avoidance.
+                      Exclude from the list arguments that are based on maximizing a valued good,
+                      such as happiness or lives lived.  Order the list from latest to earliest.
+                    • Toby Ord (2024) - Argues that humanity has intrinsic value beyond just the sum
+                      of individual human lives, and that we have an obligation to preserve this.
+                        : see https://academic.oup.com/monist/article/107/2/99/7629690?login=false
+                    • Johann Frick (2017) - Contends that humanity has "final value" that should be
+                      cherished and protected, distinct from simply creating more happy people.
+                        : see https://academic.oup.com/monist/article/107/2/99/7629690?login=false
+                    • Nick Bostrom (2013) - Proposes that we have a stronger moral reason to prevent
+                      catastrophes that would kill the entire human population compared to
+                      smaller-scale disasters, based on the unique value of humanity's continued
+                      existence.
+                        : https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=12056&context=etd
+                - This list is relatively short because many arguments for avoiding extinction are
+                  based on maximizing goods like happiness or the number of lives lived, which were
+                  excluded per the query instructions.  The philosophers listed above argue for
+                  humanity's intrinsic or unique value as a reason to avoid extinction, rather than
+                  solely focusing on maximizing positive outcomes.
     safeguarding moral rights, pending independent publication
             • attribution as author of the works
             • integrity of the works
