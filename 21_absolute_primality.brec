@@ -6,3 +6,20 @@
         - conceptual analysis of willing, on a literal construal of the concept,
           indicates that determinative freedom is essential to will
             : see @ 23_determinative_freedom.brec
+        - but if a will so construed (⁠W⁠) exists and is determinatively free as indicated,
+          then for any possible determination ⁠W_d⁠ of ⁠W⁠:
+            / whether ⁠W_d⁠ is an instance of willing or an absence of willing:
+            - one of the following is true
+                ⁃ ⁠W_d⁠ is an event
+                    ∴ it has a causal factor (⁠W_c⁠) that is original to ⁠W⁠
+                    ∴ always ⁠W_c⁠ was there
+                    ∴ always ⁠W⁠ was there
+                ⁃ ⁠W_d⁠ is not an event
+                    ∴ always ⁠W_d⁠ was there
+                    ∴ always ⁠W⁠ was there
+            ∴ always ⁠W⁠ was there
+            ∴ ⁠W⁠ is absolutely primal
+        ∴ conceptual analysis of willing, on a literal construal of the concept,
+          indicates that absolute primality is essential to will
+            : re `conceptual analysis.+concept` see `^*- but if a will so construed.+exists and is.+free`
+            : re `∴(.+)`s see `-${same}`p : QED
