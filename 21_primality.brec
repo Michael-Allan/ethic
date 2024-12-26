@@ -1,11 +1,19 @@
-21. Absolute primality is essential to will
+21. Primality is essential to will
 
     - conceptual analysis of willing, on a literal construal of the concept,
-      indicates that absolute primality is essential to will
+      indicates that primality is essential to will
         : see @ 11_objective_basis.brec
+        / here ‘primality’ means ‘the quality or condition of being primal’,
+          of ‘belonging to the earliest time or stage’, of being ‘original, first’
+            : see https://doi.org/10.1093/OED/8057016138 : Oxford English Dictionary,
+              s.v. “primality (n.), sense 1,” July 2023. :
+             ‘As a mass noun: the quality or condition of being primal’
+            : see https://doi.org/10.1093/OED/4431311163 : Oxford English Dictionary,
+              s.v. “primal (adj.), sense 2.a,” September 2024. :
+             ‘Belonging to the earliest time or stage; original, first.’
         - conceptual analysis of willing, on a literal construal of the concept,
-          indicates that determinative freedom is essential to will
-            : see @ 23_determinative_freedom.brec
+           indicates that determinative freedom is essential to will
+             : see @ 23_determinative_freedom.brec
         - but if a will so construed (⁠W⁠) exists and is determinatively free as indicated,
           then for any possible determination ⁠W_d⁠ of ⁠W⁠:
             / whether ⁠W_d⁠ is an instance of willing or an absence of willing:
@@ -18,8 +26,9 @@
                     ∴ always ⁠W_d⁠ was there
                     ∴ always ⁠W⁠ was there
             ∴ always ⁠W⁠ was there
-            ∴ ⁠W⁠ is absolutely primal
+            ∴ ⁠W⁠ is primal
+                : re `primal` see `^*: see .+/doi.org/10.1093/OED/4431311163`
         ∴ conceptual analysis of willing, on a literal construal of the concept,
-          indicates that absolute primality is essential to will
+          indicates that primality is essential to will
             : re `conceptual analysis.+concept` see `^*- but if a will so construed.+exists and is.+free`
             : re `∴(.+)`s see `-${same}`p : QED
