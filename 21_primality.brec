@@ -29,6 +29,6 @@
             ∴ ⁠W⁠ is primal
                 : re `primal` see `^*: see .+/doi.org/10.1093/OED/4431311163`
         ∴ conceptual analysis of willing, on a literal construal of the concept,
-          indicates that primality is essential to will
+          indicates that primality is essential to will as claimed
             : re `conceptual analysis.+concept` see `^*- but if a will so construed.+exists and is.+free`
-            : re `∴(.+)`s see `-${same}`p : QED
+            : re `∴(.+) as claimed$`s see `-${same}`p
