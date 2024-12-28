@@ -7,12 +7,12 @@
             : see @ 21_primality.brec
         - theoretic analysis of will as primal in conjunction with a principle of simplicity indicates
           that any such will extant, having endured to the present, would be determined to endure
-            : see @ 43_determination_to_endure.brec
+            : see @ 41_determination_to_endure.brec
         - this inherent determination of extant primal will implies a normative ethic, operative within
           the bounds of any such will, centred on a moral duty toward its endurance
-            : re `- this (.+)$`s see `^*- the ${same}`p @ 63_moral_duty.brec
+            : re `- this (.+)$`s see `^*- the ${same}`p @ 61_moral_duty.brec
         - but one has reason to believe that primal will is extant
-            : re `- but (.+)$`s see `^*- ${same}`p @ 83_presence_of_will.brec
+            : re `- but (.+)$`s see `^*- ${same}`p @ 81_presence_of_will.brec
         ∴ analysis of willing, in conjunction with supporting physical evidence,
           yields an objective basis for a normative ethic as claimed
             : re `∴(.+) as claimed$`s see `^*-${same}`p
