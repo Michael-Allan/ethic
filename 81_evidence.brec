@@ -1,0 +1,8 @@
+81. Physical evidence indicates that primal will once existed
+
+    - physical evidence consistent with past conformance to its ethic
+      gives one reason to believe that primal will once existed
+        : re `-(.+)its ethic(.+)`s see `^*- but${1}that duty${2}`p @ 01_objective_basis.brec
+        ∵ practical analysis of a primal will’s endurance, taken as a morally obligatory end,
+          indicates a [necessary] means
+        ∵ past employment of that means is supported by physical evidence

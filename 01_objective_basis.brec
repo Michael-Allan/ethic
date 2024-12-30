@@ -11,8 +11,13 @@
         - this expected determination of extant primal will implies a normative ethic, operative within
           the bounds of any such will, centred on a moral duty toward its endurance
             : re `- this (.+)$`s see `^*- the ${same}`p @ 61_moral_duty.brec
-        - but physical evidence gives one reason to believe that primal will is extant
-            : re `- but (.+)$`s see `^*- ${same}`p @ 81_presence_of_will.brec
+        - but physical evidence consistent with past conformance to that duty
+          gives one reason to believe that primal will once existed
+            : re `- but(.+)that duty(.+)`s see `^*-${1}its ethic${2}`p @ 81_evidence.brec
+        - and such is the evidence and the nature of will it evinces — both being at a cosmic scale, and
+          the latter evidently communicable — that one has reason to believe not only that primal will
+          once existed, but also that it and its ethic continue to exist by extending themselves among us
+            : re `- and (.+)`s see `^*- ${same}`p @ A1_presence_of_will.brec
         ∴ analysis of willing, in conjunction with supporting physical evidence,
           yields an objective basis for a normative ethic as claimed
             : re `∴(.+) as claimed$`s see `^*-${same}`p
