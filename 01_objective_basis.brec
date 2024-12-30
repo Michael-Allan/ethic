@@ -10,7 +10,7 @@
             : see @ 41_determination_to_endure.brec
         - this expected determination of extant primal will implies a normative ethic, operative within
           the bounds of any such will, centred on a moral duty toward its endurance
-            : re `- this (.+)$`s see `^*- the ${same}`p @ 61_moral_duty.brec
+            : re `- this (.+)`s see `^*- the ${same}`p @ 61_moral_duty.brec
         - but physical evidence consistent with past conformance to that duty
           gives one reason to believe that primal will once existed
             : re `- but(.+)that duty(.+)`s see `^*-${1}its ethic${2}`p @ 81_evidence.brec
