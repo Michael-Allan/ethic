@@ -2,4 +2,5 @@
 
     - the expected determination of extant primal will implies a normative ethic, operative within
       the bounds of any such will, centred on a moral duty toward its endurance
-        : re `- the (.+)`s see `^*- this ${same}`p @ 01_objective_basis.brec
+        : re `- the (.+) of extant primal will (.+) such will, (.+)`s see
+          `^*- this ${1} ${2} primal will that exists, ${3}`p @ 01_objective_basis.brec
