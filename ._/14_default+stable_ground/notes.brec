@@ -24,14 +24,14 @@ Notes on the ethic: default ethic + stable aeviternal ethic
 
 
     !!+ confronted by a moral crisis in my indecision over what appears to be a trillema
-        : re `what appears.+a trillema` see `^*\| fail at what matters to me$`
-        : re `what appears.+a trillema` see `^*\| succeed at what matters not`
-        : re `what appears.+a trillema` see `^*\| combine both into a.+dissatisfying whole$`
+        : re `what appears.+a trillema` see `^*1\| fail at what matters to me$`
+        : re `what appears.+a trillema` see `^*2\| succeed at what matters not`
+        : re `what appears.+a trillema` see `^*3\| combine both into a.+dissatisfying whole$`
         / this emerging from attempts to address my dissatisfaction
             : re `dissatisfaction` see `^*!!\+ weighed on, demoralized`
         | restart on the stable ground alone
             : see @ `^*!!\+ weighed on, demoralized`
-        | fail at what matters to me
+        1| fail at what matters to me
             - fail ∵ nobody is going to read it
             | focusing on cosmological fine tuning, my instance of it (‘cosmic fit’)
               being immune from the anthropic objection
@@ -41,7 +41,7 @@ Notes on the ethic: default ethic + stable aeviternal ethic
                 - only then, having secured an accomplishment,
                   should I dare to tackle the system of action
                     : see `^*\| focusing on the system of action$`
-        | succeed at what matters not (to me)
+        2| succeed at what matters not (to me)
             - matters not ∵ if the default ethic and system of action moves me at all,
               it is only by way of something beyond
                 : see 6_motivation/65.brec : so my subjective analysis says
@@ -54,7 +54,7 @@ Notes on the ethic: default ethic + stable aeviternal ethic
                       my instance of it (‘cosmic fit’) being immune from the anthropic objection
                         : see `cosmological fine tuning` @ ~/code/WP3/way/ethic/precarious_conditions.brec
                         : privately see `cosmological fine tuning` @ ~/code/WP3/way/ethic/._/cosmic_fit.brec
-        | combine both into an incoherent and dissatisfying whole
+        3| combine both into an incoherent and dissatisfying whole
             - incoherent and dissatisfying ∵ that is how the present ethic now strikes me
             | rather rebase the ethic on a truly unifying idea, thus amending the incoherence
                 | the diversity of what moves us
