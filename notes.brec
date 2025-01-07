@@ -104,8 +104,10 @@ Notes on the ethic
             • integrity of the works
         : cf @ ._/14_default+stable_ground/notes.brec
         - the Wayback Machine should suffice here
-            - though it fails to archive the Breccian images, it does archive their source files
-                / it hides Breccian source files in its directory indeces, just as my server does,
+            : see http://web.archive.org/web/20240911133046/http://reluk.ca/
+            - though it fails to archive the Breccian images, it does archive their `.brec` source files
+                / it repoints the hyperlinks for the Breccian source files in the directory indeces
+                  (to their `.brec.xht` images ∵ it runs (a copy of) the same script as the server),
                   but still one can access them by manipulating the URL in the browser’s address bar
             / wanting to find others of a like mind, I should make *myself* findable, too
 
