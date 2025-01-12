@@ -6,14 +6,16 @@ Notes on the ethic
         ?+ to what advantage for the default ethic?
             : e.g. notepad:2025-1-5b
         ? how do the two ethics relate?
-            • each is premised on (the concept of) an unconditioned condition
+            • each is premised on (the concept of) an unconditioned condition (absolute reason)
                     : ad `unconditioned condition` : from Kant, I think, who in the Groundwork wrote
                       (to the effect) that always reason seeks the unconditioned condition
-                    - the present ethic rests on a theoretically unconditioned condition (original cause)
-                    - the default ethic rests on a practically unconditioned condition (practical ground)
+                    - the present ethic rests on an absolute theoretic reason
+                        / aka original|primal|first cause, theoretic ground
+                    - the default ethic rests on an absolute practical reason
+                        / aka final cause, practical ground, end [justified] in itself
                 • together the two are mythic, telling whence we come and whither we go
                     - the original cause of the present ethic tells where we come from
-                    - the practical ground of the default ethic tells
+                    - the final cause or practical ground of the default ethic tells
                       where (properly) we are (or ought to be) going
             • each is argued (from its premise) by the method of conceptual analysis
                 - thus the claims that sit atop the present ethic fit also the default ethic
@@ -105,9 +107,12 @@ Notes on the ethic
         : cf @ ._/14_default+stable_ground/notes.brec
         - the Wayback Machine should suffice here
             : see http://web.archive.org/web/20240911133046/http://reluk.ca/
-            - though it fails to archive the Breccian images, it does archive their `.brec` source files
-                / it repoints the hyperlinks for the Breccian source files in the directory indeces
-                  (to their `.brec.xht` images ∵ it runs (a copy of) the same script as the server),
+                - here it failed to archive the Breccian Web image files
+                    / probably ∵ I had (prior to 2025-1-8) been using an Apache `IndexIgnore` directive
+                      to omit the image files from my server’s directory index
+                    - it did, however, archive their `.brec` source files
+                / it repointed the hyperlinks for the Breccian source files in the directory indeces
+                  (to their `.brec.xht` images ∵ it ran (a copy of) the same script as the server),
                   but still one can access them by manipulating the URL in the browser’s address bar
             / wanting to find others of a like mind, I should make *myself* findable, too
 
