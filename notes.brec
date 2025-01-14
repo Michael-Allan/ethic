@@ -3,10 +3,16 @@ Notes on the ethic
     !! confusion and hesitancy
             | abandon the ethical frame
                 + retitle the ethic merely as ‘notes toward’ such
+                    + archive the present version of the ethic
+                    + remove the archive from `./._/` to `./`
                 + task rather to argue, on premises of mathematics and physical evidence,
-                  simply that our extinction is not inevitable
+                  that our extinction is not inevitable, that ultimately the most daunting obstacles
+                  to aeviternity can be overcome
                     : see `^^theory$`i @ `^^Work$`i @ ~/base.brec
                     - drafting and publishing (as best I can) the argument
+                        - naming e.g. `aeviternity.prospect`
+                        - repositing in a branch of the ethic’s repository
+                        - titling e.g. *Our extinction is not inevitable*
                     - engaging en passent with others who argue for/against the same conclusion
                     / this alone appears to be all that I can contribute in the way of theory
                         : contra `^*\+ draft.+a theory.+to support a system of action affordance` @
