@@ -1,50 +1,163 @@
 Notes on the ethic
 
+    !!
+        / summary of problems and proposed solutions
+            : re `problems` see `^*${same} confusion and hesitancy$`
+            : re `problems` see `^*${same} conceptual analysis of will has turned out to be fruitless$`
+        restart+ the ethic afresh
+            : see @ `^*!! confusion and hesitancy$`
+        analyze not will+ but the fittingness of the cosmos
+            : see @ `^*!! conceptual analysis of will has turned out to be fruitless$`
+            factor out+ to a separate text the thesis that our extinction is not inevitable,
+              that ultimately the most daunting of obstacles to aeviternity might be overcome
+                : see @ `^*!! confusion and hesitancy$`
+    !! primality is not essential to will
+            to will
+                | knowingly to self-determine (independently determine) one’s intentionality
+                        - ‘knowingly’ not ‘consciously’:
+                            | consciousness of truth implies neither knowledge (true, justified belief) nor
+                              even belief; one may be conscious of a truth (here independently intending) yet
+                              think it an hallucination and thus not believe it
+                            | consciousness does not imply belief (and thus knowledge); one might be
+                              conscious of independently intending, yet think it an hallucination
+                    = knowingly to independently intend
+                | to independently intend, with justified credence and thus knowledge
+                  of one’s independence in so determining one’s own intentionality
+            will
+                - the power to will
+                    | a knowingly self-determinable (independently determinable) intentionality
+                    / possessable by a subject alone, for only a thinking entity
+                      is capable of belief and thus knowledge
+        : see e.g. notepad:2025-1-14d
+        ∵ the whole determinant might be reasoning based exclusively on the essentials of will
+            ∵ it suffices (for the condition of independence) that the (whole) determinant
+              be inherent to will
+            ∵ reason is inherent to will
+                ∵ to will entails the thought of determining one’s own intentionality
+                    ∵ to will entails credence of determining one’s own intentionality
+                    ∵ credence is thought
+                        ∵ to believe is to think
+                ∵ the thought of determining one’s own intentionality entails reason
+                    ∵ the thought of determining entails reason
+                        ∵ to determine is to cause
+                        ∵ the thought of causation entails reason
+                            ∵ the thought of causation entails an understanding of cause and effect
+                            ∵ an understanding of cause and effect requires reason
+                                !! this is uncertain
+                                    | rather reason is needed not for the understanding,
+                                      but for the knowledge of this, which knowledge willing requires
+                                        ∵ whether or not the thought of causation requires reason,
+                                          justification of one’s credence of causation certainly does
+                                            + add such justification, which you forgot,
+                                              for knowledge is true and *justified* belief
+                                                ?!! why does belief alone not suffice?  why must it be
+                                                  justified belief and thus knowledge?
+                                                    : join
+                    ∵ the thought of intentionality entails reason
+                        ∵ intentionality is the power of intending
+                        ∵ intending is thinking of causing
+                        ∵ the *thought* of thinking of causing entails reason
+                            ∵ the thought of causation entails reason
+                                : see
+                ∵ will is possessable by a subject alone, for only a thinking entity
+                  is capable of the knowledge essential to willing
+                    : re `knowledge essential to willing` see
+                      `^*= knowingly to independently intend` @ `^^to will$`
+                    ∵ knowledge entails thought
+                        ∵ knowledge entails belief
+                        ∵ a belief is a thought
+        - thus will might conceivably be primal, or rationally determined
+            / and other determinants aside from reason might be conceivable
+            - yet clearly no will of a human could be primal
+        ?!! why does belief alone not suffice?  why must it be justified belief and thus knowledge?
+            : see
+            : see notepad:19b
+                : contra notepad:19a
+                - yet ‘consciousness’ is the wrong word, pertaining to outer perception
+                - and ‘belief’ might not suffice, neither for the concept nor pulling in reason
+                    - for the former, at least, it may need to be justified
+                      by some kind of (inner) evidence
+                + from this note tell precisely what pulls in reason,
+                  and whether it is proper to the concept
+                    - ‘thinking’ is the word I want
+                        base intentionality, prior to will
+                            - ‘thinking’ sets the stage to pull in reason
+                                ∵ it pulls in logic
+                                    ∵ it pulls in thinking of intention, a concept
+                                      that involves cause and effect, thus logic
+                                        !! not *all* of logic is pulled in by this
+                        will
+                            - thinking is proper our concept of will
+                                ∵ subjectivity is proper to will
+                                    ?!! but so is awareness, thus why ‘thinking’?
+                                        | accept awareness, too, thus simply ‘subjective’
+                !! conceptual analysis of will has turned out to be fruitless
+                    - one may construct any number of types of subjects endowed with intentionality
+                      and find within them any number of potential determinants proper to the type
+                      and thus able to produce the self-determination necessary for will
+                    ∴ constructing a *minimal* type and finding within it a potential determinant
+                      of reason does not give that determinant any special priority
+                    analyze not will+ but the fittingness of the cosmos
+                        : see notepad:2025-1-14b
+                        - finding both a God-like creator and a truth of reason
+                            / the former having apparently acted on the basis of the latter
+                        - either alone would suggest recourse to the tradition of moral law,
+                          simply from its definition
+                            / and here I have both together
+                        + take that recourse
+                            - without further arguing for it
+                                ∵ apparently it is beyond my ability
+                                ∵ plausibly it is beyond *human* ability at present
+                            - rather let the seeming evidence (of a basis for moral law)
+                              do the work of convincing
+                                / proceeding thence by a postulate, for instance
     !! confusion and hesitancy
-            | abandon the ethical frame
-                - retitling the ethic merely as ‘notes toward’ such
-                    - archiving the present version under `./._/17_primal_will/`
-                    - removing the archive from `./._/` to `./`
-                - tasking rather to argue, on premises of mathematics and physical evidence,
-                  that our extinction is not inevitable, that ultimately the most daunting of obstacles
-                  to aeviternity might be overcome
-                    - drafting and publishing (as best I can) the argument
-                    - engaging en passent with others who argue for/against the same conclusion
-                    / this alone appears to be all that I can contribute presently in the way of theory
-                        : note : Theory pertinant to what concerns me most, that is,
-                          which excludes ethics per se.  Otherwise I might consider
-                          contributing the practical grounding of a default ethic.
-            | escape from these difficulties by using the relation between values/goods
-              and practical reasons
-                / a relation on which I have (among these ethic files) commented earlier
-                - viz. using the fact that:
-                    - values/goods that are valuable/good for something
-                      relate to relative practical reasons
-                        / aka means
-                    - values/goods that are absolutely valuable/good (so in themselves,
-                      or intrinically so) relate to absolute practical reasons
-                        / aka ends (justified) in themselves, practical grounds, final causes
-                - thus engaging with others who argue for an obligatory aim of extinction avoidance
-                    - engaging especially with philosophers whose arguments (like mine) are based on
-                      premises other than maximizing valued goods like happiness or lives lived
-                        ∵ apparently all such philosophers base their arguments, instead,
-                          on absolute value/good
-                            : see `^*Q\..+extinction avoidance.+Exclude.+arguments.+based on maximizing`s
-                              @ `^^comparable projects$`i
-                                - beginning here ∴ with research for a likely point of engagement
-                        ∵ I base my argument, instead, on reason/rationality/logic
-                            ∵ reason is essential to will, and thus to [moral] normativity
-                            ∵ value/good as such is *not* essential to [moral] normativity
-                                - rather only that value/good is essential that (through desire)
-                                  arises from reason or some other faculty/power/property
-                                  essential to will (and thus to [moral] normativity)
-        : see notepad:2025-1-6c
-        : see notepad:2025-1-7a
-        : see notepad:2025-1-8a,c
-        : see notepad:2025-1-9a,b,c,d,f
-        : see notepad:2025-1-10a
-        : see notepad:2025-1-11a,b
-        + incorporate these notes
+        / I can hardly discern the cause in hindsight, except that among the factors I detect an
+          over-accumulation of theses, some of which might better be addressed in separate texts,
+          rather than awkwardly crammed into one.
+            : see `\| factor out.+those theses whose arguments could better stand alone$` : therefore
+        | factor out to separate texts those theses whose arguments could better stand alone
+            restart+ the ethic afresh
+                - archiving the present version under `./._/17_primal_will/`
+            factor out+ to a separate text the thesis that our extinction is not inevitable,
+              that ultimately the most daunting of obstacles to aeviternity might be overcome
+                - arguing for it on premises of mathematics and physical evidence
+                - drafting and publishing (as best I can) the argument
+                - engaging en passent with others who argue for/against the same conclusion
+        | abandon the ethical frame
+            - simply arguing instead that our extinction is not inevitable, that ultimately
+              the most daunting of obstacles to aeviternity might be overcome
+                : join `^*factor out.+the thesis that our extinction is not inevitable`
+                / this alone appears to be all that I can contribute presently in the way of theory
+                    : note : Theory pertinant to what concerns me, that is.  This excludes ethics per se.
+                      Otherwise I might contribute the practical grounding of a default ethic.
+            - retitling the ethic merely as ‘notes toward’ such
+                - archiving its present version under `./._/17_primal_will/`
+                - removing its archive from `./._/` to `./`
+        | escape from these difficulties by using the relation between values/goods
+          and practical reasons
+            / a relation on which I have (among these ethic files) commented earlier
+            - viz. using the fact that:
+                - values/goods that are valuable/good for something
+                  relate to relative practical reasons
+                    / aka means
+                - values/goods that are absolutely valuable/good (so in themselves,
+                  or intrinically so) relate to absolute practical reasons
+                    / aka ends (justified) in themselves, practical grounds, final causes
+            - thus engaging with others who argue for an obligatory aim of extinction avoidance
+                - engaging especially with philosophers whose arguments (like mine) are based on
+                  premises other than maximizing valued goods like happiness or lives lived
+                    ∵ apparently all such philosophers base their arguments, instead,
+                      on absolute value/good
+                        : see `^*Q\..+extinction avoidance.+Exclude.+arguments.+based on maximizing`s
+                          @ `^^comparable projects$`i
+                            - beginning here ∴ with research for a likely point of engagement
+                    ∵ I base my argument, instead, on reason/rationality/logic
+                        ∵ reason is essential to will, and thus to [moral] normativity
+                        ∵ value/good as such is *not* essential to [moral] normativity
+                            - rather only that value/good is essential that (through desire)
+                              arises from reason or some other faculty/power/property
+                              essential to will (and thus to [moral] normativity)
     ?+ (re)join with the default ethic?
         ?+ to what advantage for the present ethic?
             • deepening it, giving one insight into the original reasoning
