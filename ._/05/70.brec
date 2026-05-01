@@ -70,8 +70,8 @@
               & = \sum_{t=0}^\infty p\epsilon^t (p;\epsilon)_t                        \end{align}･
 
     - This is a q-series.
+        : see https://qseries.org/berndt-on-q.pdf : What is a Q-series?
         : see http://simonrs.com/eulercircle/infiniteseries/steven-qseries.pdf : *Q-series*
-        : see https://faculty.math.illinois.edu/~berndt/articles/q.pdf : What is a Q-series?
     - I found no closed form for it.
         : see e.g. https://math.stackexchange.com/q/4692693/1178074 :
           *Bernoulli-process series with decaying probability ⁠p⁠*
