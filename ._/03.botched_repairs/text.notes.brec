@@ -3,7 +3,7 @@ Practical philosophy notes
 
     + go straight into the unadorned argument
         : re `^. (.+)` see `${same}$` @ ../02.wrong_rhetoric/wrong_rhetoric.README.brec
-        - logic comprising premises, inferences and conclusions
+        - comprising logic in the form of premises, inferences and conclusions
             : ad `premises` : conventionally numbered
         - nothing else
             / no superfluous rhetoric, just what logic demands
