@@ -1,6 +1,6 @@
 Practical philosophy
 
-        (1) by a truth of practical logic, absent knowledge of whether ∃ a ground (stable ground)
+        (1) by a truth of practical reason, absent knowledge of whether ∃ a ground (stable ground)
           and, if so, what it consists in, that knowledge (ground knowledge) is itself
           a ground (the default ground)
             : re `^*\(\d+\) (.+)`s see `^*argue\+ that, ${same}`p @ default/._/text.notes.brec
