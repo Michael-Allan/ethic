@@ -1,12 +1,12 @@
 Practical philosophy
 
-        (1) by a truth of practical reason, absent knowledge of whether ∃ a ground (stable ground)
-          and, if so, what it consists in, that knowledge (ground knowledge) is itself
-          a ground (the default ground)
+        (1) by a truth of practical reason, absent knowledge of whether there exists
+          a ground (stable ground) and, if so, what it consists in, that knowledge
+          (ground knowledge) is itself a ground (the default ground)
             : re `^*\(\d+\) (.+)`s see `^*argue\+ that, ${same}`p @ default/._/text.notes.brec
         (2) despite long efforts [in the past], ultimately|{in the end} {we have}|{∃ among us}
           (at present) no settled consensus on the ground question [or its likes]
-            : re `the ground question` sc. `whether ∃ a ground.+and.+what it consists in`s
+            : re `the ground question` sc. `whether there exists a ground.+and.+what it consists in`p
         (3) we know|have (at present) of no way|method to [reliably]
           {gauge|determine|predict an upper limit|bound on}|bound
           {how long}|{the period|{length of time}} it could|might take to acquire ground knowledge
@@ -35,7 +35,7 @@ Practical philosophy
         (6) the safehold’s fitness as a means coincides with the end to which reason
           (in our present state) directs us
 
-    - the coincidence surprises ∵ prima facie it lacks for explanation
+    - the coincidence surprises because it lacks for an obvious explanation
     - an obvious place to look, however, is the aetiology of the safehold
     - an aetiologic survey that aims for exhaustive coverage by typological division
       turns up the following results
