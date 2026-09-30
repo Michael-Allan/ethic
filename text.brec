@@ -6,7 +6,7 @@ Practical philosophy
             : re `^*\(\d+\) (.+)`s see `^*argue\+ that, ${same}`p @ default/._/text.notes.brec
         (2) despite long efforts [in the past], ultimately|{in the end} {we have}|{∃ among us}
           (at present) no settled consensus on the ground question [or its likes]
-            : re `the ground question` sc. `whether there exists a ground.+and.+what it consists in`p
+            : re `the ground question` viz. `whether there exists a ground.+and.+what it consists in`p
         (3) we know|have (at present) of no way|method to [reliably]
           {gauge|determine|predict an upper limit|bound on}|bound
           {how long}|{the period|{length of time}} it could|might take to acquire ground knowledge
