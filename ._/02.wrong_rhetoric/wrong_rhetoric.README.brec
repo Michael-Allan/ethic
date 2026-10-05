@@ -79,10 +79,10 @@ Wrong rhetoric
               with the promise thereby of mining further philosophic answers and ultimately grounding
               an ethic, and then (2) the method (9b,c) summarized and directly employed.
                 : note : notepad entry 2026-9-10a
-        + screw the rhetorical adornment, which is not wanted for (2) anyway,
+        + screw the adorning rhetoric, which is not wanted for (2) anyway,
           and go straight into the unadorned argument
-            : re `(screw.+adornment).+(and go.+to the.+argument)`s
+            : re `(screw.+rhetoric).+(and go.+to the.+argument)`s
               cf. `${1} ${2}$`s @ ~/work/ethic/._/40_moral_possibility_boneyard.brec
             : see @ `^^whence my frustration.+\?` @ ._/wrong_rhetoric.README_boneyard.brec
             - let the argument (bare and unencumbered) speak for itself
-            / any rhetorical adornment that would help can attach itself later
+            / any rhetoric that would help can attach itself later
