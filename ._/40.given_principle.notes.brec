@@ -30,7 +30,11 @@ Notes on the given principle
                     + instead qualify propositions *ex hypothesi* by subscripting their indeces
                       with the mnemonic of the hypothesis whose truth they assume
 
-                        (76)⁠_H\space⁠ as with, for example, this proposition
+                        H: as with a hypothesis in this form, for example,
+                          asserting that a certain explanans holds
+
+                        (76)⁠_\sf H\space⁠ and a proposition in this form
+                            : re `H` q.v. : ex hypothesi
 
                     + argue separately for the credibility of the hypothesis,
                       which then attaches to its *ex hypothesi* propositions

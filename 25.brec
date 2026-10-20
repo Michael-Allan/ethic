@@ -1,5 +1,3 @@
 
-    \  hypothesis:
-
-        ⁠\bf M⁠: the explanans of mundane design holds
+        M: the explanans of mundane design holds \ hypothesis
             : re `explanans of (.+ design)` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec
