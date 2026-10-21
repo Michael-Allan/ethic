@@ -1,7 +1,42 @@
-Notes on file 25
+Notes on the inferred principle of reason
 
+    + skip the adorning rhetoric and go straight into the unadorned argument
+        : re `(skip.+rhetoric) (and go.+to the.+argument)` join `${1}.+${2}$`s @
+          02.wrong_rhetoric/wrong_rhetoric.README.brec : here as there,
+          a wrong order of work is the basic fault
+        - the next major task for the argument:
+
+            P: a practical principle of reason that arguably (as I shall argue in subsequent files)
+              is enforced and thereby absolute
+                : ad `of reason` : of a source qualified, that is, to give the principle of a moral law
+
+        : see notepad:2026-10-8a,b,c,d
+        : see notepad:2026-10-9a,b,d,e
+        : see notepad:2026-10-10a,b,c,d,e
+        : see notepad:2026-10-12c : relating as equivalents (i) brute fact and (ii) the non-existence
+          of a stable ground, each being a null explanans or case of groundlessness,
+          either of (i) theory or (ii) practice
+        1. formula of P
+            ' will O
+                O: the perdurance both of reason [at large] and the knowledge of Oe’s ground
+                    : re `reason` see doi:10.1093/OED/5117557630 :
+                     ‘The power of the mind to think and form valid judgements by a process of logic’.
+                      *Oxford English Dictionary*, ‘reason (n.1), sense II.5.a,’ September 2026.
+                Oe: O taken as an end
+                    : re `end` see doi:10.1093/OED/4032691889 : ‘An intended result of an action; an aim,
+                      purpose.’  *Oxford English Dictionary*, ‘end (n.), sense II.14.a,’ June 2026.
+        2+ state P’s premises
+            : see notepad:2026-10-7c
+            (-) [credibly] a stable ground (S) holds that consists in Oe
+                : ad `credibly` : credence would be justified
+                    + argue ex hypothesi instead
+                        : re `ex hypothesi` see `^^argumentation, ${same}$`i @ 23.plan.notes.brec
+                + retroduce an inference to this conclusion
+                    : join
+        3+ infer P
+            (-) [credibly] a principle of reason holds on the formula: will O
     + retroduce an inference to this conclusion
-        : see @ 40.given_principle.notes.brec
+        : see
         - reason’s perdurance → explanans of autotelic reason
             : see notepad:2026-10-9d
             - autotelic reason → S
@@ -13,6 +48,10 @@ Notes on file 25
                     | a [more] complete determination of the designer’s indeterminate reason,
                       thereby better explaining both the safehold (6)
                       and the coincidence in which it takes part (7)
+                            : re `(safehold) (\(6\))` see `^*${2} a ${1}` @
+                              ../20.a_surprising_coincidence.brec
+                            : re `(coincide)nce.+(\(7\))` see `^*${2} three objects.+${1}` @
+                              ../20.a_surprising_coincidence.brec
                         / by analysis from the (ex hypothesi) fact of reason’s perdurance
                         ∵ the cosmocrafters’ reason would have to be one of:
                           the default ground, S and S’s further ground
@@ -51,7 +90,7 @@ Notes on file 25
                         - ultimately it’s unclear what stable, determining motive/impetus there could be,
                           other than one proper to reason
                 ? on what pretext consider the endurance/perdurance of reason?
-                    : pace `^*. skip the adorning rhetoric` @ 40.given_principle.notes.brec :
+                    : pace `^*. skip the adorning rhetoric` :
                       not mere adornment ∵ the rhetoric here could determine the order of the argument
                     | wanted here is not a pretext to consider that, but an argument for it
                         : see notepad:2026-10-16a
@@ -101,8 +140,7 @@ Notes on file 25
                                                   cf. `our long-term endurance`
                                                     pretext, for endurance
                         • a further threefold coincidence
-                            : see `addition of a further threefold coincidence` @
-                              20.evident_creator_boneyard.brec
+                            : see `addition of a further threefold coincidence` @ 20.boneyard.brec
                             ∴ explanation for it, want of
                             ∴ alternative sources of normativity at contention in the field of ethics,
                               the matter of
