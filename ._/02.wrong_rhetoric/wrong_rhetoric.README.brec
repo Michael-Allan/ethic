@@ -82,7 +82,7 @@ Wrong rhetoric
         + skip the adorning rhetoric, which is not wanted for (2) anyway,
           and go straight into the unadorned argument
             : re `(skip.+rhetoric).+(and go.+to the.+argument)`s
-              cf. `${1} ${2}$`s @ ~/work/ethic/._/67.principle.notes.brec
+              cf. `${1} ${2}$`s @ ~/work/ethic/._/76.principle.notes.brec
             : see @ `^^whence my frustration.+\?` @ ._/wrong_rhetoric.README_boneyard.brec
             - let the argument (bare and unencumbered) speak for itself
             / any rhetoric that would help can attach itself later
